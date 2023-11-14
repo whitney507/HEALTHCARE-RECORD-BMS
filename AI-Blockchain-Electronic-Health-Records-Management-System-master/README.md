@@ -84,7 +84,7 @@ git clone https://github.com/whitney507/HEALTHCARE-RECORD-BMS
 
 3. In the terminal navigate to the repository directory
 ```
-cd AI-Blockchain-Electronic-Health-Records-Management-System
+cd HEALTHCARE-RECORD-BMS
 ```
 4. Open VS Code in the same directory
 ```
