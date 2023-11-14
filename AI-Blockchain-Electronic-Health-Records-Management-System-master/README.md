@@ -77,7 +77,7 @@ pip install pattern3
 
 1. Git Clone this repository to your system
 ```
-git clone https://github.com/yashverma9/AI-Blockchain-Electronic-Health-Records-Management-System
+git clone https://github.com/whitney507/HEALTHCARE-RECORD-BMS
 ```
 
 2. Start Docker Desktop on your system
